@@ -16,4 +16,4 @@
 ### Images 1
 ![img](https://raw.githubusercontent.com/PKJOYAL/Termux-Setup/refs/heads/main/1.jpg)
 ### Images 2
-![img](main/2.jpg)
+![img](https://raw.githubusercontent.com/PKJOYAL/Termux-Setup/refs/heads/main/2.jpg)
