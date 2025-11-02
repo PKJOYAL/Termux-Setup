@@ -13,7 +13,7 @@
  chmod +x termux-setup.sh
  bash termux-setup.sh
 ```
-![img](main/images/1.jpg)|
+![img](main/images/1.jpg)
 
 
-![img](main/images/2.jpg)|
+![img](main/images/2.jpg)
