@@ -5,3 +5,10 @@
 ✅ Compiler tools (clang, make) 
 ✅ Network tools (nmap, net-tools, openssh) 
 ✅ zip/unzip, vim, nano, htop, etc.
+
+
+
+
+# cd Termux-Setup
+# chmod +x termux-setup.sh
+# bash termux-setup.sh
