@@ -14,7 +14,7 @@
  bash termux-setup.sh
 ```
 ### Images 1
-![img](main/images/1.jpg)
+![img](main/1.jpg)
 
 ### Images 2
-![img](main/images/2.jpg)
+![img](main/2.jpg)
