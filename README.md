@@ -8,9 +8,9 @@
 
 
 
-‛‛‛ Bash
+``` Bash
 
  cd Termux-Setup
  chmod +x termux-setup.sh
  bash termux-setup.sh
-‛‛‛
+```
